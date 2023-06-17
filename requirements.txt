@@ -4,3 +4,4 @@ scikit_learn
 streamlit
 seaborn
 category_encoders
+pandas.core.indexes.numeric
