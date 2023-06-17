@@ -4,4 +4,4 @@ scikit_learn
 streamlit
 seaborn
 category_encoders
-pickle
+pickle == 4.0
